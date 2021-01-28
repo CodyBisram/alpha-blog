@@ -1,2 +1,8 @@
-<h1 class="text-center mt-2">Listing all articles</h1>
+<div class="apple_pagination">
+  <%= will_paginate @articles, :container => false%>
+</div>
+<h3 class="text-center mt-2">Articles Listing</h1>
 <%= render 'article' %>
+<div class="apple_pagination mt-3">
+  <%= will_paginate @articles, :container => false%>
+</div>
