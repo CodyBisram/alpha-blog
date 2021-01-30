@@ -1,24 +1,14 @@
-# README
+# Cody's Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog web application was built using Ruby 3.0.0, and Rails 6.1.1.
 
-Things you may want to cover:
+Showcases Rails ability to implement the following:
 
-* Ruby version
+- Blog features with categories
+- User validation
+- Secure routing
+- Styling using bootstrap
+- Associations and Authentications
+- Admin authorization
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Production version of the repository can be found at: https://alpha-blog-1994.herokuapp.com/
